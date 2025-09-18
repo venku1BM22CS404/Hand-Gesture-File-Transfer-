@@ -1,6 +1,8 @@
 # Hand-Gesture-File-Transfer-
 A project that transfers any type of files using just hand gestures. Add ons will be appreciated.
 
+"This project is for educational and portfolio purposes only."
+
 The entire project is built with the help of Claude.ai.
 
 Project Architecture
